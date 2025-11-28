@@ -1,11 +1,12 @@
-pyrogram
+Pyrogram==2.0.106
 tgcrypto
 requests
-pyromod
-yt-dlp
+pyromod==1.5
+git+https://github.com/yt-dlp/yt-dlp@master
 aiohttp
 aiofiles
 ffmpeg
 ffprobe
 asyncio
 humanize
+speedtest-cli
